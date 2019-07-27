@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BlueToothHid</string>
+    <string name="hid_connected_msg">블루투스 입력 장치가 성공적으로 연결됨</string>
+</resources>
